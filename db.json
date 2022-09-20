@@ -26,6 +26,11 @@
             "name" :"ayush",
             "status" : true,
             "likes" : "cricket"
+        },
+        {
+            "name" :"mayush",
+            "status" : true,
+            "likes" : "cricket"
         }
     ]
 }
