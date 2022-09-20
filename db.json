@@ -21,6 +21,11 @@
             "name" :"mitali",
             "status" : true,
             "likes" : "football"
+        },
+        {
+            "name" :"ayush",
+            "status" : true,
+            "likes" : "cricket"
         }
     ]
 }
