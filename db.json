@@ -13,7 +13,14 @@
     ],
     "employee" : [
         {
-            "name" :"mitali"
+            "name" :"mitali",
+            "status" : true,
+            "likes" : "football"
+        },
+        {
+            "name" :"mitali",
+            "status" : true,
+            "likes" : "football"
         }
     ]
 }
